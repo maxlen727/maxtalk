@@ -1,4 +1,4 @@
-baseURL: "https://www.maxlen.link/"
+baseURL: "https://maxtalk.vercel.app/"
 title: MaxTalk
 paginate: 15
 theme: PaperMod

@@ -2,211 +2,211 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on MaxTalk</title>
-    <link>https://www.maxlen.link/posts/</link>
+    <link>https://maxtalk.vercel.app/posts/</link>
     <description>Recent content in Posts on MaxTalk</description>
     <image>
       <title>MaxTalk</title>
-      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://maxtalk.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maxtalk.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
-    <atom:link href="https://www.maxlen.link/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maxtalk.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
-      <link>https://www.maxlen.link/posts/hello-hugo/</link>
+      <link>https://maxtalk.vercel.app/posts/hello-hugo/</link>
       <pubDate>Mon, 12 Feb 2024 08:48:59 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/hello-hugo/</guid>
+      <guid>https://maxtalk.vercel.app/posts/hello-hugo/</guid>
       <description>没错，我开始玩Hugo了 过几天有时间可能会写一篇Hugo建站教程。这玩意还是有一小小点的坑的。</description>
     </item>
     <item>
       <title>怎么又开始用Google的Bloger了？</title>
-      <link>https://www.maxlen.link/posts/gridea-to-bloger/</link>
+      <link>https://maxtalk.vercel.app/posts/gridea-to-bloger/</link>
       <pubDate>Wed, 30 Aug 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/gridea-to-bloger/</guid>
+      <guid>https://maxtalk.vercel.app/posts/gridea-to-bloger/</guid>
       <description>好久没有写博客了，上次更新还是在2022年8月，那真是久远的事情了。当时还在用Gridea写博客，但为啥不用了呢？</description>
     </item>
     <item>
       <title>类原生联网管控，我是这样做的</title>
-      <link>https://www.maxlen.link/posts/internet-wall-aosp/</link>
+      <link>https://maxtalk.vercel.app/posts/internet-wall-aosp/</link>
       <pubDate>Mon, 31 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/internet-wall-aosp/</guid>
+      <guid>https://maxtalk.vercel.app/posts/internet-wall-aosp/</guid>
       <description>谁说联网管控是国内深度定制UI的专利？类原生也能进行联网管控，请往这里看！</description>
     </item>
     <item>
       <title>openSUSE下fcitx5 Bug＆Fix一小记 ft. openSUSE使用日志（3）</title>
-      <link>https://www.maxlen.link/posts/fcitx5-opensuse-bug/</link>
+      <link>https://maxtalk.vercel.app/posts/fcitx5-opensuse-bug/</link>
       <pubDate>Mon, 24 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/fcitx5-opensuse-bug/</guid>
+      <guid>https://maxtalk.vercel.app/posts/fcitx5-opensuse-bug/</guid>
       <description>这是一篇小记。主要记下我的fcitx5的使用和遇到的问题。</description>
     </item>
     <item>
       <title>openSUSE下搜狗输入法Bug＆Fix一记 ft. openSUSE使用日志（2）</title>
-      <link>https://www.maxlen.link/posts/opensuse-sogou-log-2/</link>
+      <link>https://maxtalk.vercel.app/posts/opensuse-sogou-log-2/</link>
       <pubDate>Sun, 23 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/opensuse-sogou-log-2/</guid>
+      <guid>https://maxtalk.vercel.app/posts/opensuse-sogou-log-2/</guid>
       <description>Linux下几乎就没有什么好用的拼音输入法。sunpinyin，四叶草拼音啥的都试过，还是种种不舒畅。最后想到搜狗输入法，然而这货想在openSUSE下正常使用可还得花点功夫。并且解决方法还比较“偏僻”，这是我的解决思路和经验，估计能对你起到一些帮助</description>
     </item>
     <item>
       <title>openSUSE使用日志（1）</title>
-      <link>https://www.maxlen.link/posts/opensuse-log-1/</link>
+      <link>https://maxtalk.vercel.app/posts/opensuse-log-1/</link>
       <pubDate>Sun, 23 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/opensuse-log-1/</guid>
+      <guid>https://maxtalk.vercel.app/posts/opensuse-log-1/</guid>
       <description>我曾经说过每个Linux使用者都该有写日志的好习惯，用以记录对系统的自定义更改。这是我的openSUSE使用日志（1）</description>
     </item>
     <item>
       <title>从0开始的openSUSE使用ft.各个发行版的使用感受</title>
-      <link>https://www.maxlen.link/posts/opensuse-nb/</link>
+      <link>https://maxtalk.vercel.app/posts/opensuse-nb/</link>
       <pubDate>Sat, 22 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/opensuse-nb/</guid>
+      <guid>https://maxtalk.vercel.app/posts/opensuse-nb/</guid>
       <description>这个选题是很早之前准备写的，拖了很久，赶紧把它写了吧！这几次openSUSE使用也给我留下了很深的印象。最适合我的发行版是什么？我的心中已经有了答案</description>
     </item>
     <item>
       <title>曲线救国？Zapier自动化来实现「简悦&gt;Pocket&gt;Notion」</title>
-      <link>https://www.maxlen.link/posts/simpleread-pocket-notion-zapier/</link>
+      <link>https://maxtalk.vercel.app/posts/simpleread-pocket-notion-zapier/</link>
       <pubDate>Tue, 18 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/simpleread-pocket-notion-zapier/</guid>
+      <guid>https://maxtalk.vercel.app/posts/simpleread-pocket-notion-zapier/</guid>
       <description>我购买了简悦高级版，但是无法使用开发者提供的一键保存到Notion的服务，但是我看到简悦可以保存到Pocket，此时我突发奇想……</description>
     </item>
     <item>
       <title>别用公开的网络图床了，自己搭建一个图床！</title>
-      <link>https://www.maxlen.link/posts/img-river/</link>
+      <link>https://maxtalk.vercel.app/posts/img-river/</link>
       <pubDate>Mon, 17 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/img-river/</guid>
+      <guid>https://maxtalk.vercel.app/posts/img-river/</guid>
       <description>早年间我写blog就是把照片都托管到公开图床上了，结果现在很多图片都丢了，很影响文章阅读和保存，那索性我就来研究研究私有化图床部署吧！</description>
     </item>
     <item>
       <title>覃怀表白墙备份</title>
-      <link>https://www.maxlen.link/posts/tanhuai-love/</link>
+      <link>https://maxtalk.vercel.app/posts/tanhuai-love/</link>
       <pubDate>Sat, 15 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/tanhuai-love/</guid>
+      <guid>https://maxtalk.vercel.app/posts/tanhuai-love/</guid>
       <description>今天在整理Github仓库的时候看到了我们学校的「覃怀表白墙」，怀念那段逝去的欢乐时光</description>
     </item>
     <item>
       <title>Linux下新QQ Bug＆Fix一记</title>
-      <link>https://www.maxlen.link/posts/linux-qq-bugs-crash/</link>
+      <link>https://maxtalk.vercel.app/posts/linux-qq-bugs-crash/</link>
       <pubDate>Sun, 09 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/linux-qq-bugs-crash/</guid>
+      <guid>https://maxtalk.vercel.app/posts/linux-qq-bugs-crash/</guid>
       <description>最近再次开始用openSUSE，没想到遇到了这个头疼的问题（7月26日更新）</description>
     </item>
     <item>
       <title>听取骂声一片——我市中招成绩查询当晚</title>
-      <link>https://www.maxlen.link/posts/cha-xun/</link>
+      <link>https://maxtalk.vercel.app/posts/cha-xun/</link>
       <pubDate>Sat, 08 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/cha-xun/</guid>
+      <guid>https://maxtalk.vercel.app/posts/cha-xun/</guid>
       <description>中考查分，数万学子的大事啊！然而，我市的查分却在查分当晚出了问题！批判，必须批判！</description>
     </item>
     <item>
       <title>一次刷机经历，让我开始了解安卓文件系统</title>
-      <link>https://www.maxlen.link/posts/flash-rom-android-fliessys/</link>
+      <link>https://maxtalk.vercel.app/posts/flash-rom-android-fliessys/</link>
       <pubDate>Fri, 07 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/flash-rom-android-fliessys/</guid>
+      <guid>https://maxtalk.vercel.app/posts/flash-rom-android-fliessys/</guid>
       <description>前段时间奶奶说她手机卡啊，我就寻思着给刷个类原生呗。没想到这么一整让我第一次遇到了刷机里文件系统相关的问题。</description>
     </item>
     <item>
       <title>推荐几款字体</title>
-      <link>https://www.maxlen.link/posts/my-recommended-fonts/</link>
+      <link>https://maxtalk.vercel.app/posts/my-recommended-fonts/</link>
       <pubDate>Fri, 07 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/my-recommended-fonts/</guid>
+      <guid>https://maxtalk.vercel.app/posts/my-recommended-fonts/</guid>
       <description>最近看见了一些美观的字体，推荐一手</description>
     </item>
     <item>
       <title>Lsposed框架碎碎念</title>
-      <link>https://www.maxlen.link/posts/lsposed-zhihu/</link>
+      <link>https://maxtalk.vercel.app/posts/lsposed-zhihu/</link>
       <pubDate>Thu, 22 Jun 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/lsposed-zhihu/</guid>
+      <guid>https://maxtalk.vercel.app/posts/lsposed-zhihu/</guid>
       <description>我在知乎上与775CPU的私信</description>
     </item>
     <item>
       <title>魔趣遗老的碎碎念（一）</title>
-      <link>https://www.maxlen.link/posts/mokee-1/</link>
+      <link>https://maxtalk.vercel.app/posts/mokee-1/</link>
       <pubDate>Wed, 07 Jun 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/mokee-1/</guid>
+      <guid>https://maxtalk.vercel.app/posts/mokee-1/</guid>
       <description>今天看了一下博客的关于页，突然看见一个“魔趣粉”的tag，顿时让我想起了曾经的刷机快乐岁月，再看今日魔趣退去，感慨万分。</description>
     </item>
     <item>
       <title>来到Manjaro后叛逃Deepin</title>
-      <link>https://www.maxlen.link/posts/manjaro-to-deepin/</link>
+      <link>https://maxtalk.vercel.app/posts/manjaro-to-deepin/</link>
       <pubDate>Mon, 08 Aug 2022 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/manjaro-to-deepin/</guid>
+      <guid>https://maxtalk.vercel.app/posts/manjaro-to-deepin/</guid>
       <description>我爱瞎搞，瞎搞使我快乐。最近我尝试安装Linux系统，没想到这一用就回不去了。</description>
     </item>
     <item>
       <title>话说最近Gitalk和Valine被墙了</title>
-      <link>https://www.maxlen.link/posts/gitalk-valine-gfw/</link>
+      <link>https://maxtalk.vercel.app/posts/gitalk-valine-gfw/</link>
       <pubDate>Thu, 04 Aug 2022 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/gitalk-valine-gfw/</guid>
+      <guid>https://maxtalk.vercel.app/posts/gitalk-valine-gfw/</guid>
       <description>我的博客转入Gridea以来一直使用的评论系统就是Gitalk，在使用Hexo时则是Valine。</description>
     </item>
     <item>
       <title>关于Gridea同步失败的迷思</title>
-      <link>https://www.maxlen.link/posts/gridea-push/</link>
+      <link>https://maxtalk.vercel.app/posts/gridea-push/</link>
       <pubDate>Wed, 03 Aug 2022 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/gridea-push/</guid>
+      <guid>https://maxtalk.vercel.app/posts/gridea-push/</guid>
       <description>Gridea同步又失败了？！</description>
     </item>
     <item>
       <title>小米手环7Pro？快逃！</title>
-      <link>https://www.maxlen.link/posts/xiaomi-band-7-pro/</link>
+      <link>https://maxtalk.vercel.app/posts/xiaomi-band-7-pro/</link>
       <pubDate>Tue, 02 Aug 2022 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/xiaomi-band-7-pro/</guid>
+      <guid>https://maxtalk.vercel.app/posts/xiaomi-band-7-pro/</guid>
       <description>我已经使用小米手环7Pro二十多天了，首发时入的，体验下来还是一款槽点满满的设备。这可能是你能在网上找到的最详细、真实的小米手环7Pro体验报告。</description>
     </item>
     <item>
       <title>最近的变化</title>
-      <link>https://www.maxlen.link/posts/nearly-change/</link>
+      <link>https://maxtalk.vercel.app/posts/nearly-change/</link>
       <pubDate>Sun, 13 Mar 2022 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/nearly-change/</guid>
+      <guid>https://maxtalk.vercel.app/posts/nearly-change/</guid>
       <description>讲讲最近发生的变化，或许你注意到了，又或许你没留意</description>
     </item>
     <item>
       <title>2021年终报告</title>
-      <link>https://www.maxlen.link/posts/2021-final/</link>
+      <link>https://maxtalk.vercel.app/posts/2021-final/</link>
       <pubDate>Sat, 25 Dec 2021 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/2021-final/</guid>
+      <guid>https://maxtalk.vercel.app/posts/2021-final/</guid>
       <description>2022，加油！</description>
     </item>
     <item>
       <title>Hexo主题上手实操：从Fluid到Icarus再到Nexmoe</title>
-      <link>https://www.maxlen.link/posts/hexo-theme-change/</link>
+      <link>https://maxtalk.vercel.app/posts/hexo-theme-change/</link>
       <pubDate>Sun, 03 Oct 2021 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/hexo-theme-change/</guid>
+      <guid>https://maxtalk.vercel.app/posts/hexo-theme-change/</guid>
       <description>闲来无聊，给Hexo博客换个主题</description>
     </item>
     <item>
       <title>给你的Ventoy整点花活</title>
-      <link>https://www.maxlen.link/posts/ventoy-mei-hua/</link>
+      <link>https://maxtalk.vercel.app/posts/ventoy-mei-hua/</link>
       <pubDate>Fri, 17 Sep 2021 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/ventoy-mei-hua/</guid>
+      <guid>https://maxtalk.vercel.app/posts/ventoy-mei-hua/</guid>
       <description>美化一下咱们的Ventoy</description>
     </item>
     <item>
       <title>iPhone13支持卫星通信？我觉得你想多了</title>
-      <link>https://www.maxlen.link/posts/iphone13-wei-xing-tong-xin/</link>
+      <link>https://maxtalk.vercel.app/posts/iphone13-wei-xing-tong-xin/</link>
       <pubDate>Sat, 04 Sep 2021 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/iphone13-wei-xing-tong-xin/</guid>
+      <guid>https://maxtalk.vercel.app/posts/iphone13-wei-xing-tong-xin/</guid>
       <description>到时候发布会结束如果有卫星通信别打我脸</description>
     </item>
     <item>
       <title>Windows应用商店的代替方案</title>
-      <link>https://www.maxlen.link/posts/windows-store-gp/</link>
+      <link>https://maxtalk.vercel.app/posts/windows-store-gp/</link>
       <pubDate>Fri, 03 Sep 2021 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/windows-store-gp/</guid>
+      <guid>https://maxtalk.vercel.app/posts/windows-store-gp/</guid>
       <description>滚！Windows Store！</description>
     </item>
     <item>
       <title>卡巴斯基KES，你好丑，我要让你变成萌萌的卡巴酱</title>
-      <link>https://www.maxlen.link/posts/kes-skin/</link>
+      <link>https://maxtalk.vercel.app/posts/kes-skin/</link>
       <pubDate>Thu, 02 Sep 2021 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/kes-skin/</guid>
+      <guid>https://maxtalk.vercel.app/posts/kes-skin/</guid>
       <description>嘿嘿嘿，自己动手，丰衣足食！</description>
     </item>
     <item>
       <title>让Windows 10自动切换深色模式</title>
-      <link>https://www.maxlen.link/posts/auto-darkmode-win10/</link>
+      <link>https://maxtalk.vercel.app/posts/auto-darkmode-win10/</link>
       <pubDate>Thu, 02 Sep 2021 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/auto-darkmode-win10/</guid>
+      <guid>https://maxtalk.vercel.app/posts/auto-darkmode-win10/</guid>
       <description>Windows 10中，你可以手动在设置中切换浅色or深色模式，但不能自动切换.那有没有办法让Windows 10自动切换深色模式呢？</description>
     </item>
   </channel>

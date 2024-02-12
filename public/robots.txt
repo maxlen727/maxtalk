@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.maxlen.link/sitemap.xml
+Sitemap: https://maxtalk.vercel.app/sitemap.xml

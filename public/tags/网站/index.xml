@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>网站 on MaxTalk</title>
-    <link>https://www.maxlen.link/tags/%E7%BD%91%E7%AB%99/</link>
+    <link>https://maxtalk.vercel.app/tags/%E7%BD%91%E7%AB%99/</link>
     <description>Recent content in 网站 on MaxTalk</description>
     <image>
       <title>MaxTalk</title>
-      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://maxtalk.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maxtalk.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
-    <atom:link href="https://www.maxlen.link/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maxtalk.vercel.app/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>怎么又开始用Google的Bloger了？</title>
-      <link>https://www.maxlen.link/posts/gridea-to-bloger/</link>
+      <link>https://maxtalk.vercel.app/posts/gridea-to-bloger/</link>
       <pubDate>Wed, 30 Aug 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/gridea-to-bloger/</guid>
+      <guid>https://maxtalk.vercel.app/posts/gridea-to-bloger/</guid>
       <description>好久没有写博客了，上次更新还是在2022年8月，那真是久远的事情了。当时还在用Gridea写博客，但为啥不用了呢？</description>
     </item>
     <item>
       <title>别用公开的网络图床了，自己搭建一个图床！</title>
-      <link>https://www.maxlen.link/posts/img-river/</link>
+      <link>https://maxtalk.vercel.app/posts/img-river/</link>
       <pubDate>Mon, 17 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/img-river/</guid>
+      <guid>https://maxtalk.vercel.app/posts/img-river/</guid>
       <description>早年间我写blog就是把照片都托管到公开图床上了，结果现在很多图片都丢了，很影响文章阅读和保存，那索性我就来研究研究私有化图床部署吧！</description>
     </item>
     <item>
       <title>覃怀表白墙备份</title>
-      <link>https://www.maxlen.link/posts/tanhuai-love/</link>
+      <link>https://maxtalk.vercel.app/posts/tanhuai-love/</link>
       <pubDate>Sat, 15 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/tanhuai-love/</guid>
+      <guid>https://maxtalk.vercel.app/posts/tanhuai-love/</guid>
       <description>今天在整理Github仓库的时候看到了我们学校的「覃怀表白墙」，怀念那段逝去的欢乐时光</description>
     </item>
     <item>
       <title>话说最近Gitalk和Valine被墙了</title>
-      <link>https://www.maxlen.link/posts/gitalk-valine-gfw/</link>
+      <link>https://maxtalk.vercel.app/posts/gitalk-valine-gfw/</link>
       <pubDate>Thu, 04 Aug 2022 10:35:25 +0800</pubDate>
-      <guid>https://www.maxlen.link/posts/gitalk-valine-gfw/</guid>
+      <guid>https://maxtalk.vercel.app/posts/gitalk-valine-gfw/</guid>
       <description>我的博客转入Gridea以来一直使用的评论系统就是Gitalk，在使用Hexo时则是Valine。</description>
     </item>
   </channel>
