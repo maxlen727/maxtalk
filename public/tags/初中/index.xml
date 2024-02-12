@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>初中 on MaxTalk</title>
+    <link>https://www.maxlen.link/tags/%E5%88%9D%E4%B8%AD/</link>
+    <description>Recent content in 初中 on MaxTalk</description>
+    <image>
+      <title>MaxTalk</title>
+      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
+    <atom:link href="https://www.maxlen.link/tags/%E5%88%9D%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>覃怀表白墙备份</title>
+      <link>https://www.maxlen.link/posts/tanhuai-love/</link>
+      <pubDate>Sat, 15 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/tanhuai-love/</guid>
+      <description>今天在整理Github仓库的时候看到了我们学校的「覃怀表白墙」，怀念那段逝去的欢乐时光</description>
+    </item>
+    <item>
+      <title>听取骂声一片——我市中招成绩查询当晚</title>
+      <link>https://www.maxlen.link/posts/cha-xun/</link>
+      <pubDate>Sat, 08 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/cha-xun/</guid>
+      <description>中考查分，数万学子的大事啊！然而，我市的查分却在查分当晚出了问题！批判，必须批判！</description>
+    </item>
+  </channel>
+</rss>

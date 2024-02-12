@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小记 on MaxTalk</title>
+    <link>https://www.maxlen.link/tags/%E5%B0%8F%E8%AE%B0/</link>
+    <description>Recent content in 小记 on MaxTalk</description>
+    <image>
+      <title>MaxTalk</title>
+      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
+    <atom:link href="https://www.maxlen.link/tags/%E5%B0%8F%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>怎么又开始用Google的Bloger了？</title>
+      <link>https://www.maxlen.link/posts/gridea-to-bloger/</link>
+      <pubDate>Wed, 30 Aug 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/gridea-to-bloger/</guid>
+      <description>好久没有写博客了，上次更新还是在2022年8月，那真是久远的事情了。当时还在用Gridea写博客，但为啥不用了呢？</description>
+    </item>
+    <item>
+      <title>openSUSE下搜狗输入法Bug＆Fix一记 ft. openSUSE使用日志（2）</title>
+      <link>https://www.maxlen.link/posts/opensuse-sogou-log-2/</link>
+      <pubDate>Sun, 23 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/opensuse-sogou-log-2/</guid>
+      <description>Linux下几乎就没有什么好用的拼音输入法。sunpinyin，四叶草拼音啥的都试过，还是种种不舒畅。最后想到搜狗输入法，然而这货想在openSUSE下正常使用可还得花点功夫。并且解决方法还比较“偏僻”，这是我的解决思路和经验，估计能对你起到一些帮助</description>
+    </item>
+    <item>
+      <title>覃怀表白墙备份</title>
+      <link>https://www.maxlen.link/posts/tanhuai-love/</link>
+      <pubDate>Sat, 15 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/tanhuai-love/</guid>
+      <description>今天在整理Github仓库的时候看到了我们学校的「覃怀表白墙」，怀念那段逝去的欢乐时光</description>
+    </item>
+    <item>
+      <title>听取骂声一片——我市中招成绩查询当晚</title>
+      <link>https://www.maxlen.link/posts/cha-xun/</link>
+      <pubDate>Sat, 08 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/cha-xun/</guid>
+      <description>中考查分，数万学子的大事啊！然而，我市的查分却在查分当晚出了问题！批判，必须批判！</description>
+    </item>
+    <item>
+      <title>Lsposed框架碎碎念</title>
+      <link>https://www.maxlen.link/posts/lsposed-zhihu/</link>
+      <pubDate>Thu, 22 Jun 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/lsposed-zhihu/</guid>
+      <description>我在知乎上与775CPU的私信</description>
+    </item>
+    <item>
+      <title>魔趣遗老的碎碎念（一）</title>
+      <link>https://www.maxlen.link/posts/mokee-1/</link>
+      <pubDate>Wed, 07 Jun 2023 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/mokee-1/</guid>
+      <description>今天看了一下博客的关于页，突然看见一个“魔趣粉”的tag，顿时让我想起了曾经的刷机快乐岁月，再看今日魔趣退去，感慨万分。</description>
+    </item>
+    <item>
+      <title>来到Manjaro后叛逃Deepin</title>
+      <link>https://www.maxlen.link/posts/manjaro-to-deepin/</link>
+      <pubDate>Mon, 08 Aug 2022 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/manjaro-to-deepin/</guid>
+      <description>我爱瞎搞，瞎搞使我快乐。最近我尝试安装Linux系统，没想到这一用就回不去了。</description>
+    </item>
+    <item>
+      <title>话说最近Gitalk和Valine被墙了</title>
+      <link>https://www.maxlen.link/posts/gitalk-valine-gfw/</link>
+      <pubDate>Thu, 04 Aug 2022 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/gitalk-valine-gfw/</guid>
+      <description>我的博客转入Gridea以来一直使用的评论系统就是Gitalk，在使用Hexo时则是Valine。</description>
+    </item>
+    <item>
+      <title>关于Gridea同步失败的迷思</title>
+      <link>https://www.maxlen.link/posts/gridea-push/</link>
+      <pubDate>Wed, 03 Aug 2022 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/gridea-push/</guid>
+      <description>Gridea同步又失败了？！</description>
+    </item>
+    <item>
+      <title>最近的变化</title>
+      <link>https://www.maxlen.link/posts/nearly-change/</link>
+      <pubDate>Sun, 13 Mar 2022 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/nearly-change/</guid>
+      <description>讲讲最近发生的变化，或许你注意到了，又或许你没留意</description>
+    </item>
+    <item>
+      <title>2021年终报告</title>
+      <link>https://www.maxlen.link/posts/2021-final/</link>
+      <pubDate>Sat, 25 Dec 2021 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/2021-final/</guid>
+      <description>2022，加油！</description>
+    </item>
+  </channel>
+</rss>

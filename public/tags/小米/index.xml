@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小米 on MaxTalk</title>
+    <link>https://www.maxlen.link/tags/%E5%B0%8F%E7%B1%B3/</link>
+    <description>Recent content in 小米 on MaxTalk</description>
+    <image>
+      <title>MaxTalk</title>
+      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
+    <atom:link href="https://www.maxlen.link/tags/%E5%B0%8F%E7%B1%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小米手环7Pro？快逃！</title>
+      <link>https://www.maxlen.link/posts/xiaomi-band-7-pro/</link>
+      <pubDate>Tue, 02 Aug 2022 10:35:25 +0800</pubDate>
+      <guid>https://www.maxlen.link/posts/xiaomi-band-7-pro/</guid>
+      <description>我已经使用小米手环7Pro二十多天了，首发时入的，体验下来还是一款槽点满满的设备。这可能是你能在网上找到的最详细、真实的小米手环7Pro体验报告。</description>
+    </item>
+  </channel>
+</rss>
