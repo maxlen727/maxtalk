@@ -1,6 +1,6 @@
 baseURL: "https://www.maxlen.link"
 title: MaxTalk
-paginate: 15
+paginate: 10
 theme: PaperMod
 languageCode: zh-cn
 
