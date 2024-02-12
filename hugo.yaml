@@ -35,6 +35,9 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  twikoo:
+    version: 1.6.31
+
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
