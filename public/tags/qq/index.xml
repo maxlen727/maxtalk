@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>QQ on MaxTalk</title>
-    <link>https://maxlen.link/tags/qq/</link>
+    <link>https://www.maxlen.link/tags/qq/</link>
     <description>Recent content in QQ on MaxTalk</description>
     <image>
       <title>MaxTalk</title>
-      <url>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
-    <atom:link href="https://maxlen.link/tags/qq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.maxlen.link/tags/qq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux下新QQ Bug＆Fix一记</title>
-      <link>https://maxlen.link/posts/linux-qq-bugs-crash/</link>
+      <link>https://www.maxlen.link/posts/linux-qq-bugs-crash/</link>
       <pubDate>Sun, 09 Jul 2023 10:35:25 +0800</pubDate>
-      <guid>https://maxlen.link/posts/linux-qq-bugs-crash/</guid>
+      <guid>https://www.maxlen.link/posts/linux-qq-bugs-crash/</guid>
       <description>最近再次开始用openSUSE，没想到遇到了这个头疼的问题（7月26日更新）</description>
     </item>
   </channel>

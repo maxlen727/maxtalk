@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>卡巴斯基 on MaxTalk</title>
-    <link>https://maxlen.link/tags/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA/</link>
+    <link>https://www.maxlen.link/tags/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA/</link>
     <description>Recent content in 卡巴斯基 on MaxTalk</description>
     <image>
       <title>MaxTalk</title>
-      <url>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
-    <atom:link href="https://maxlen.link/tags/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.maxlen.link/tags/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>卡巴斯基KES，你好丑，我要让你变成萌萌的卡巴酱</title>
-      <link>https://maxlen.link/posts/kes-skin/</link>
+      <link>https://www.maxlen.link/posts/kes-skin/</link>
       <pubDate>Thu, 02 Sep 2021 10:35:25 +0800</pubDate>
-      <guid>https://maxlen.link/posts/kes-skin/</guid>
+      <guid>https://www.maxlen.link/posts/kes-skin/</guid>
       <description>嘿嘿嘿，自己动手，丰衣足食！</description>
     </item>
   </channel>

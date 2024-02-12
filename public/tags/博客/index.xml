@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>博客 on MaxTalk</title>
-    <link>https://maxlen.link/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://www.maxlen.link/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on MaxTalk</description>
     <image>
       <title>MaxTalk</title>
-      <url>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
-    <atom:link href="https://maxlen.link/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.maxlen.link/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>怎么又开始用Google的Bloger了？</title>
-      <link>https://maxlen.link/posts/gridea-to-bloger/</link>
+      <link>https://www.maxlen.link/posts/gridea-to-bloger/</link>
       <pubDate>Wed, 30 Aug 2023 10:35:25 +0800</pubDate>
-      <guid>https://maxlen.link/posts/gridea-to-bloger/</guid>
+      <guid>https://www.maxlen.link/posts/gridea-to-bloger/</guid>
       <description>好久没有写博客了，上次更新还是在2022年8月，那真是久远的事情了。当时还在用Gridea写博客，但为啥不用了呢？</description>
     </item>
     <item>
       <title>关于Gridea同步失败的迷思</title>
-      <link>https://maxlen.link/posts/gridea-push/</link>
+      <link>https://www.maxlen.link/posts/gridea-push/</link>
       <pubDate>Wed, 03 Aug 2022 10:35:25 +0800</pubDate>
-      <guid>https://maxlen.link/posts/gridea-push/</guid>
+      <guid>https://www.maxlen.link/posts/gridea-push/</guid>
       <description>Gridea同步又失败了？！</description>
     </item>
     <item>
       <title>最近的变化</title>
-      <link>https://maxlen.link/posts/nearly-change/</link>
+      <link>https://www.maxlen.link/posts/nearly-change/</link>
       <pubDate>Sun, 13 Mar 2022 10:35:25 +0800</pubDate>
-      <guid>https://maxlen.link/posts/nearly-change/</guid>
+      <guid>https://www.maxlen.link/posts/nearly-change/</guid>
       <description>讲讲最近发生的变化，或许你注意到了，又或许你没留意</description>
     </item>
     <item>
       <title>Hexo主题上手实操：从Fluid到Icarus再到Nexmoe</title>
-      <link>https://maxlen.link/posts/hexo-theme-change/</link>
+      <link>https://www.maxlen.link/posts/hexo-theme-change/</link>
       <pubDate>Sun, 03 Oct 2021 10:35:25 +0800</pubDate>
-      <guid>https://maxlen.link/posts/hexo-theme-change/</guid>
+      <guid>https://www.maxlen.link/posts/hexo-theme-change/</guid>
       <description>闲来无聊，给Hexo博客换个主题</description>
     </item>
   </channel>
