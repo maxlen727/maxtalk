@@ -1,0 +1,176 @@
+baseURL: "https://www.maxlen.link/"
+title: MaxTalk
+paginate: 15
+theme: PaperMod
+languageCode: zh-cn
+
+enableRobotsTXT: true
+enableInlineShortcodes: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+hasCJKLanguage: true
+
+# googleAnalytics: 
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+permalinks: #浏览器链接显示方式
+  post: "/:year/:month/:day/:title/"
+
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: MaxTalk
+  description: "生命不息 折腾不止"
+  # keywords: [Blog]
+  author: MaxLen
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2006-01-02"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowLastMod: true #显示文章更新时间
+  ShowRssButtonInSectionTermList: true
+  VisitCount: true
+  ShowVisitCount: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  hideFooter: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "img/avatars.png"
+    favicon16x16: "img/avatars.png"
+    favicon32x32: "img/avatars.png"
+    apple_touch_icon: "img/avatars.png"
+    safari_pinned_tab: "img/avatars.png"
+
+  label:
+    text: "MaxTalk"
+    icon: img/avatars.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "o(>^ω^<)o"
+    Content: "\U0001F44B我是MaxLen/苏婉轩、 欢迎来到我的Blog. 以下是我的联系方式"
+
+  socialIcons:
+    - name: X
+      url: "https://x.com/maxlen727"
+    - name: Telegram
+      url: "https://t.me/maxlen727"
+    - name: Github
+      url: "https://github.com/maxlen727"
+
+
+  analytics:
+    google:
+      SiteVerificationTag: ""
+    bing:
+      SiteVerificationTag: ""
+    yandex:
+      SiteVerificationTag: ""
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+#  editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: about
+      name: 关于
+      url: about
+      weight: 20
+    - identifier: search
+      name: 搜索
+      url: search
+      weight: 2
+#    - identifier: categories
+#      name: 分类
+#      url: /categories/
+#      weight: 10
+    - identifier: archives
+      name: 归档
+      url: archives/
+      weight: 5
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 3
+#    - identifier: links
+#      name: 友链
+#      url: links
+#      weight: 4
+    - indetifier: rss
+      name: RSS
+      url: index.xml
+      weight: 6
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
