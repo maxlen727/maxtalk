@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>建站 on MaxTalk</title>
+    <link>https://maxlen.link/tags/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on MaxTalk</description>
+    <image>
+      <title>MaxTalk</title>
+      <url>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
+    <atom:link href="https://maxlen.link/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://maxlen.link/posts/hello-hugo/</link>
+      <pubDate>Mon, 12 Feb 2024 08:48:59 +0800</pubDate>
+      <guid>https://maxlen.link/posts/hello-hugo/</guid>
+      <description>没错，我开始玩Hugo了 过几天有时间可能会写一篇Hugo建站教程。这玩意还是有一小小点的坑的。</description>
+    </item>
+    <item>
+      <title>最近的变化</title>
+      <link>https://maxlen.link/posts/nearly-change/</link>
+      <pubDate>Sun, 13 Mar 2022 10:35:25 +0800</pubDate>
+      <guid>https://maxlen.link/posts/nearly-change/</guid>
+      <description>讲讲最近发生的变化，或许你注意到了，又或许你没留意</description>
+    </item>
+    <item>
+      <title>Hexo主题上手实操：从Fluid到Icarus再到Nexmoe</title>
+      <link>https://maxlen.link/posts/hexo-theme-change/</link>
+      <pubDate>Sun, 03 Oct 2021 10:35:25 +0800</pubDate>
+      <guid>https://maxlen.link/posts/hexo-theme-change/</guid>
+      <description>闲来无聊，给Hexo博客换个主题</description>
+    </item>
+  </channel>
+</rss>

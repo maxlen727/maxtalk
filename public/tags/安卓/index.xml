@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>安卓 on MaxTalk</title>
+    <link>https://maxlen.link/tags/%E5%AE%89%E5%8D%93/</link>
+    <description>Recent content in 安卓 on MaxTalk</description>
+    <image>
+      <title>MaxTalk</title>
+      <url>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
+    <atom:link href="https://maxlen.link/tags/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>类原生联网管控，我是这样做的</title>
+      <link>https://maxlen.link/posts/internet-wall-aosp/</link>
+      <pubDate>Mon, 31 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://maxlen.link/posts/internet-wall-aosp/</guid>
+      <description>谁说联网管控是国内深度定制UI的专利？类原生也能进行联网管控，请往这里看！</description>
+    </item>
+    <item>
+      <title>一次刷机经历，让我开始了解安卓文件系统</title>
+      <link>https://maxlen.link/posts/flash-rom-android-fliessys/</link>
+      <pubDate>Fri, 07 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://maxlen.link/posts/flash-rom-android-fliessys/</guid>
+      <description>前段时间奶奶说她手机卡啊，我就寻思着给刷个类原生呗。没想到这么一整让我第一次遇到了刷机里文件系统相关的问题。</description>
+    </item>
+  </channel>
+</rss>

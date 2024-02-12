@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>私有化 on MaxTalk</title>
+    <link>https://maxlen.link/tags/%E7%A7%81%E6%9C%89%E5%8C%96/</link>
+    <description>Recent content in 私有化 on MaxTalk</description>
+    <image>
+      <title>MaxTalk</title>
+      <url>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://maxlen.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Feb 2024 10:35:25 +0800</lastBuildDate>
+    <atom:link href="https://maxlen.link/tags/%E7%A7%81%E6%9C%89%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>别用公开的网络图床了，自己搭建一个图床！</title>
+      <link>https://maxlen.link/posts/img-river/</link>
+      <pubDate>Mon, 17 Jul 2023 10:35:25 +0800</pubDate>
+      <guid>https://maxlen.link/posts/img-river/</guid>
+      <description>早年间我写blog就是把照片都托管到公开图床上了，结果现在很多图片都丢了，很影响文章阅读和保存，那索性我就来研究研究私有化图床部署吧！</description>
+    </item>
+  </channel>
+</rss>
