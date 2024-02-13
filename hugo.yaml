@@ -103,7 +103,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-L1EJR6WZHT"
+      SiteVerificationTag: ""
     bing:
       SiteVerificationTag: ""
     yandex:
