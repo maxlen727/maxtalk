@@ -13,7 +13,7 @@ buildExpired: false
 
 hasCJKLanguage: true
 
-# googleAnalytics: 
+googleAnalytics: G-L1EJR6WZHT
 
 minify:
   disableXML: true
@@ -103,7 +103,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: ""
+      SiteVerificationTag: "G-L1EJR6WZHT"
     bing:
       SiteVerificationTag: ""
     yandex:
