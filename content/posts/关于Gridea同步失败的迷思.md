@@ -12,7 +12,7 @@ weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默
 slug: "gridea-push"
 draft: false # 是否为草稿
 comments: true #是否展示评论
-showToc: true # 显示目录
+showToc: false # 显示目录
 TocOpen: true # 自动展开目录
 hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
 disableShare: false # 底部不显示分享栏
@@ -31,7 +31,6 @@ cover:
 曾经我以为是网络问题，就使用了代理，结果还是失败，反倒是去掉代理后又成功了。（我的代理没有问题啊，可以流畅看Youtube直播）之后再用这个方法又不管用了。
 
 > 2023年的我补：估计是Gridea自带的git不走代理，也许用TUN模式代理就可以了
-> 
 
 Gridea的同步是时好时坏的。
 

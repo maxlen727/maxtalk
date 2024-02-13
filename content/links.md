@@ -10,12 +10,12 @@ disableShare: true
 comments: true
 reward: false
 showbreadcrumbs: false
+
 ---
 
 <div class="friend">
 
 {{< friend name="Sulv's Blog" url="https://www.sulvblog.cn" logo="https://www.sulvblog.cn/img/Q.gif" word="一个记录技术、阅读、生活的博客" >}}
-
 
 </div>
 
@@ -25,19 +25,16 @@ showbreadcrumbs: false
 <br/>
 <br/>
 
-
-
 <div style="font-size: 20px;" class="youlian">👉友链格式</div>
 
 <div style="font-size: 16px;">
 
-
-|        |                                   |
-| ------ | --------------------------------- |
-| 名称： | Sulv's Blog                       |
-| 网址： | https://www.sulvblog.cn           |
-| 图标： | https://www.sulvblog.cn/img/Q.gif |
-| 描述： | 一个记录技术、阅读、生活的博客    |
+|     |                                          |
+| --- | ---------------------------------------- |
+| 名称： | MaxTalk                                  |
+| 网址： | https://www.maxlen.link                  |
+| 图标： | https://www.maxlen.link/img/avatars.webp |
+| 描述： | 生命不息 折腾不止                                |
 
 </div>
 

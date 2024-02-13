@@ -11,7 +11,7 @@ weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默
 slug: "opensuse-sogou-log-2"
 draft: false # 是否为草稿
 comments: true #是否展示评论
-showToc: true # 显示目录
+showToc: false # 显示目录
 TocOpen: true # 自动展开目录
 hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
 disableShare: false # 底部不显示分享栏
@@ -70,9 +70,7 @@ sudo zypper in libQtWebKit4
 
     ![image](https://github.com/maxlen727/picx-images-hosting/raw/master/image.6pvvltu7dy80.webp)
 
-这里运行之后很明显看出少了libfcitx-qt.so.0运行库，遂去查找
-
-[](https://pkgs.org/download/libfcitx-qt.so.0()(64bit))
+这里运行之后很明显看出少了[libfcitx-qt.so.0](https://pkgs.org/download/libfcitx-qt.so.0()(64bit))运行库，遂去查找
 
 pkgs这里虽没有openSUSE的，但作为Fedora的“亲戚”，我们还是可以借用一下它的rpm包的
 

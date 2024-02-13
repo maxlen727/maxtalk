@@ -28,7 +28,7 @@ openSUSE在我使用Linux的过程中给我留下了极好的印象，我将它�
 
 ## 0. openSUSE两个版本，我适合哪个？
 
-openSUSE主要有两个版本：**Tumbleweed**和**Leap。**区别在于「滚动更新」与「稳定发行」
+openSUSE主要有两个版本：**Tumbleweed**和**Leap** 区别在于「滚动更新」与「稳定发行」
 
 ![image](https://github.com/maxlen727/picx-images-hosting/raw/master/20240212/image.3ocou7md89a0.webp)
 
