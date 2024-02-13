@@ -61,15 +61,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "img/avatars.png"
-    favicon16x16: "img/avatars.png"
-    favicon32x32: "img/avatars.png"
-    apple_touch_icon: "img/avatars.png"
-    safari_pinned_tab: "img/avatars.png"
+    favicon: "img/avatars.webp"
+    favicon16x16: "img/avatars.webp"
+    favicon32x32: "img/avatars.webp"
+    apple_touch_icon: "img/avatars.webp"
+    safari_pinned_tab: "img/avatars.webp"
 
   label:
     text: "MaxTalk"
-    icon: img/avatars.png
+    icon: img/avatars.webp
     iconHeight: 35
 
   # profile-mode
@@ -152,10 +152,10 @@ menu:
       name: 标签
       url: /tags/
       weight: 3
-#    - identifier: links
-#      name: 友链
-#      url: links
-#      weight: 4
+    - identifier: links
+      name: 友链
+      url: links
+      weight: 4
     - indetifier: rss
       name: RSS
       url: index.xml

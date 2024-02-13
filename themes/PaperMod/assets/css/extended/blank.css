@@ -1,5 +1,182 @@
-/*
-This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
 
-Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
-*/
+body {
+    background-color:rgb(255,254,248) ;
+}
+
+.dark {
+    background-color:#1d1e20 ;
+}
+
+.friendurl {
+    text-decoration: none !important;
+    color: black;
+    box-shadow: none !important;
+}
+
+.myfriend {
+    width: 56px !important;
+    height: 56px !important;
+    border-radius: 50%!important;
+    padding: 2px;
+    margin-top: 20px !important;
+    margin-left: 14px !important;
+    background-color: #fff;
+}
+
+.frienddiv {
+    overflow: auto;
+    height: 100px;
+    width: 49%;
+    display: inline-block !important;
+    border-radius: 5px;
+    background: none;
+    
+    -webkit-transition: all ease-out 0.3s;
+    -moz-transition: all ease-out 0.3s;
+    -o-transition: all ease-out 0.3s;
+    transition: all ease-out 0.3s;
+}
+
+.dark .frienddiv:hover {
+    background: var(--code-bg);
+}
+
+.frienddiv:hover {
+    background: var(--theme);
+    transition: transform 1s;
+    webkit-transform: scale(1.1);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.1);
+}
+
+.frienddiv:hover .frienddivleft img { 
+    transition: 0.9s !important;
+    -webkit-transition: 0.9s !important;
+    -moz-transition: 0.9s !important;
+    -o-transition: 0.9s !important;
+    -ms-transition: 0.9s !important;
+    transform: rotate(360deg) !important;
+    -webkit-transform: rotate(360deg) !important;
+    -moz-transform: rotate(360deg) !important;
+    -o-transform: rotate(360deg) !important;
+    -ms-transform: rotate(360deg) !important;
+}
+
+.frienddivleft {
+    width: 92px;
+    float: left;
+    margin-right: -5px;
+}
+
+.frienddivright {
+    margin-top: 18px;
+    margin-right: 18px;
+}
+
+.friendname {
+    text-overflow: ellipsis;
+    font-size: 100%;
+    margin-bottom: 5px;
+    color: var(--primary);
+}
+
+.friendinfo {
+    text-overflow: ellipsis;
+    font-size: 70%;
+    color: var(--primary);
+}
+
+@media screen and (max-width: 600px) {
+    .friendinfo {
+        display: none;
+    }
+    .frienddivleft {
+        width: 84px;
+        margin: auto;
+    }
+    .frienddivright {
+        height: 100%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .friendname {
+        font-size: 18px;
+    }
+}
+
+.toc {
+    padding: 14px;
+    border: solid 1px lightgray;
+    font-size: 12px;
+}
+
+
+@media (min-width: 1280px) {
+    .toc {
+        position: sticky;
+        float: left;
+        --toc-left: calc(100vw / 50);
+        left: var(--toc-left); /* _minimum_ distance from left screen border */
+        top: 100px;
+        margin-left: -1000px; /* overruled by left */
+    
+        width: calc((100vw - var(--main-width) - 2 * var(--gap)) / 2 - 2 * var(--toc-left));
+        padding: 14px;
+        border: solid 1px lightgray;
+        font-size: 12px;
+    }
+  
+    .toc .inner {
+        padding: 0;
+    }
+  
+    .toc details summary {
+        margin-inline-start: 0;
+        margin-bottom: 10px;
+    }
+
+}
+
+/*标签*/
+.terms-tags {
+    text-align: center;
+}
+
+.terms-tags a:hover {
+    background: none;
+
+    webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.3);
+}
+
+.terms-tags a {
+    border-radius: 30px;
+    background: none;
+    transition: transform 0.5s;
+}
+
+.dark .terms-tags a {
+    background: none;
+}
+
+.dark .terms-tags a:hover {
+    background: none;
+
+    webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.3);
+}
+
+.terms-tags li {
+    margin: 5px;
+}
+
