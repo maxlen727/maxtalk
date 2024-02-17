@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "f9963064e3df8669",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbdfed66933f159b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f489ff8ace7cd6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "206b6bd81b0ea987",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cb4dce5f5a86a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6bf659763fec9b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b53bb82cdc9e72f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7a996efab3f48b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eee2a6124b81d67b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2ad3ae7018e27d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52fd4a4f2d17fee7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7aa58981fbc1daf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61649b36cc463701",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21a4c0eab6d47820",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f489ff8ace7cd6ab",
+  "lastOpenFiles": [
+    "posts/Hello Hugo.md",
+    "posts/Windows应用商店的代替方案.md"
+  ]
+}
