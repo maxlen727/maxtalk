@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cbdfed66933f159b",
+        "id": "4ad3501e1916b3b0",
         "type": "tabs",
         "children": [
           {
-            "id": "f489ff8ace7cd6ab",
+            "id": "802482de1d170485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md",
+                "file": "posts/重回ArchLinux，但这次是Wayland.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md",
+                "file": "posts/重回ArchLinux，但这次是Wayland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md",
+                "file": "posts/重回ArchLinux，但这次是Wayland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/一次刷机经历，让我开始了解安卓文件系统.md"
+                "file": "posts/重回ArchLinux，但这次是Wayland.md"
               }
             }
           }
@@ -146,9 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f489ff8ace7cd6ab",
+  "active": "802482de1d170485",
   "lastOpenFiles": [
+    "posts/重回ArchLinux，但这次是Wayland.md",
+    "posts/Hugo建站的注意事项和PaperMod的配置.md",
+    "posts/最近的变化.md",
     "posts/Hello Hugo.md",
-    "posts/Windows应用商店的代替方案.md"
+    "posts/Windows应用商店的代替方案.md",
+    "未命名.md",
+    "posts/一次刷机经历，让我开始了解安卓文件系统.md"
   ]
 }
