@@ -1,13 +1,15 @@
 ---
-abbrlink: qexo-test
 categories: []
 date: '2024-07-19T23:17:51.906+08:00'
+description: ''
+lastmod: '2024-07-20T09:19:58.799+08:00'
+showToc: false
+slug: qexo-test
 tags:
 - 博客
 - 网站
 - Qexo
 title: Qexo的测试
-updated: '2024-07-19T23:21:12.045+08:00'
 ---
 因为部署了Qexo
 
