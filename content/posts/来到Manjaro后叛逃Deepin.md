@@ -6,10 +6,10 @@ author: ["MaxLen"] #作者
 tags: 
 - Linux
 - 小记
-description: "我爱瞎搞，瞎搞使我快乐。最近我尝试安装Linux系统，没想到这一用就回不去了。" #描述
+description: "瞎搞使我快乐。最近我尝试安装Linux系统，没想到这一用就回不去了。" #描述
 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: "manjaro-to-deepin"
-draft: false # 是否为草稿
+draft: true # 是否为草稿
 comments: true #是否展示评论
 showToc: false # 显示目录
 TocOpen: true # 自动展开目录

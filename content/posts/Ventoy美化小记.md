@@ -1,5 +1,5 @@
 ---
-title: "给你的Ventoy整点花活" #标题
+title: "Ventoy美化小记" #标题
 date: 2021-09-17T10:35:25+08:00 #创建时间
 lastmod: 2024-02-12T10:35:25+08:00 #更新时间
 author: ["MaxLen"] #作者
@@ -25,7 +25,7 @@ cover:
 
 ### 📚前言
 
-闲来无事，给Ventoy整个花吧。
+闲来无事，给Ventoy美化一下吧。
 
 官方对于主题插件的文档中提到：
 
@@ -39,7 +39,7 @@ cover:
 
 ---
 
-### 😀呜呼呼，开整！
+### 😀开始
 
 [GRUB Themes - Gnome-look.org](https://www.gnome-look.org/browse/cat/109/order/latest/)是个好网站，我们可以直接在里面找引导主题。
 
@@ -47,14 +47,10 @@ cover:
 
 这个主题叫[Sleek GrubBootloader themes [That greets you with your name]](https://www.gnome-look.org/p/1414997)，很好看。我就决定用它。
 
-但是咱们怎么整？这可是Grub啊，到Ventoy上怎么整？
-
-嘿嘿，其实我也不知道怎么整。不过我们可以参考一下现成的Ventoy主题。
+参考一下现成的Ventoy主题。
 
 ![https://i.bmp.ovh/imgs/2021/10/4e25554312f6b346.png](https://i.bmp.ovh/imgs/2021/10/4e25554312f6b346.png)
 
-`theme`是最主要的文件，我们把之前仿Big Sur的Grub替换一下。
+`theme`是最主要的文件，我们把之前仿Big Sur的grub主题文件替换一下。
 
-然后测试一波哦~
-
-成功，思路可行！
+结束了。~~水了一篇。~~

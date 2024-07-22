@@ -121,7 +121,7 @@ openSUSE主要有两个版本：**Tumbleweed**和**Leap** 区别在于「滚动�
 
 有没觉得安装完卡卡的？是否感受到了openSUSE的“厚重”（笑）
 
-SUSE是极其注重版权的公司，不会预装闭源的英伟达显卡驱动，默认使用逆向而来的开源驱动，这里需要我们手动安装性能更好的闭源驱动。
+SUSE是极其注重版权的公司，不会预装闭源的英伟达显卡驱动，这里需要我们手动安装性能更好的闭源驱动。
 
 [SDB:NVIDIA 驱动 - openSUSE Wiki](https://zh.opensuse.org/SDB:NVIDIA_驱动)
 
@@ -135,7 +135,7 @@ SUSE Prime 提供了在 Intel 显卡和 NVIDIA 显卡之间切换的工具，它
 
 **如果你是AMD显卡或Intel显卡用户：**
 
-那你可丝毫不用担心了，得益于AMD和Intel的开源支持，openSUSE已经完全内置了相应的驱动，无需烦心配置了。
+那你可丝毫不用担心了，得益于AMD和Intel的开源支持，openSUSE会自动安装相应的驱动，无需烦心配置了。
 
 ### Step 3 .配置PACKMAN软件源
 
@@ -167,13 +167,13 @@ sudo zypper install --from packman ffmpeg gstreamer-plugins-{good,bad,ugly,libav
 
 ### Step 5 .解锁openSUSE大杀器——opi
 
-**O**pen Build Service **P**ackage **I**nstaller（简称opi），这类似于Arch Linux的AUR Helper，方便用户使用**O**pen **B**uild **S**ervice（简称OBS）构建的软件包，这是openSUSE可与Arch Linux抗衡的优点之一，也是openSUSE可以碾压一众其它发行版的重要原因。
+**O**pen Build Service **P**ackage **I**nstaller（简称opi），这类似于Arch Linux的AUR Helper，方便用户使用**O**pen **B**uild **S**ervice（简称OBS）构建的软件包。
 
 ```bash
 sudo zypper install opi
 ```
 
-## 3. Linux世界广阔，我来给你指条明路
+## 3. Linux世界广阔，我给您指条路
 
 openSUSE的Wiki要多看，遇到问题应该先翻wiki
 
@@ -218,7 +218,7 @@ openSUSE Software 是opi的数据来源，若遇到opi终端内无法处理的�
 
 ![image](https://github.com/maxlen727/picx-images-hosting/raw/master/20240212/image.53p5kj1ch800.webp)
 
-💣**缺点**:因为是基于Arch，所以AUR下来的软件包都需要自行编译。这确实避免了一堆乱七八糟的问题，但每次想安装软件还要等待编译，尤其遇到大型软件，那真是尤为痛苦。关键大部分软件源码都在GitHub上，不开代理真的很难使用啊！并且编译时若系统没有相关编译器，它就会自动配置环境，导致系统占用空间逐渐变大，我不是全栈工程师，我不需要九九八十一种编程语言的环境啊！
+💣**缺点**:因为是基于Arch，所以AUR下来的软件包一些需要自行编译。这确实避免了一堆乱七八糟的问题，但每次想安装软件还要等待编译，尤其遇到大型软件，那真是尤为痛苦。关键大部分软件源码都在GitHub上，不开代理真的很难使用啊！并且编译时会安装编译环境和所需依赖，系统会逐渐越来越胖呢～
 
 ## Deepin
 
@@ -240,7 +240,7 @@ openSUSE Software 是opi的数据来源，若遇到opi终端内无法处理的�
 
 ## Arch
 
-✨**优点**:Keep It Simple, Stupid. 软件包多，用户生态极强，用户质量整体高，遇到问题合理提问很快会有人解答。实力雄厚，硬核制胜。
+✨**优点**:Keep It Simple, Stupid. 软件包多，用户生态极强，用户质量整体高，遇到问题合理提问很快会有人解答。
 
 💣**缺点**:和Manjaro那边我遇到的问题是一样的，这也是我抛弃Arch系的原因。对了，还有一点：Arch的安装稍微有亿点复杂
 
@@ -252,9 +252,9 @@ openSUSE Software 是opi的数据来源，若遇到opi终端内无法处理的�
 
 ## openSUSE
 
-✨**优点**:有滚动更新的风滚草和稳定发行的Leap两个版本可供选择。非常注重版权和开源文化。社区强大，用户质量整体高。软件包数量尚可。免费提供给大家的Open Build Server是真棒。尊重上游。YaST好使。openQA让我内心踏实。实力雄厚，硬核制胜。依托SUSE商业公司。
+✨**优点**:有滚动更新的风滚草和稳定发行的Leap两个版本可供选择。非常注重版权和开源文化。社区强大，用户质量整体高。软件包数量尚可。免费提供给大家的Open Build Server是真棒。尊重上游。YaST好使。openQA让我内心踏实。依托SUSE商业公司。
 
-💣**缺点：** 不自带编解码器，英伟达闭源驱动。系统安装时速度慢。
+💣**缺点：** 不自带编解码器和英伟达闭源驱动。系统安装时速度慢。
 
 ## ZorinOS
 
@@ -272,4 +272,4 @@ openSUSE Software 是opi的数据来源，若遇到opi终端内无法处理的�
 
 # 💭Part 3 : 外话
 
-这文章一写就是一下午啊，从13点左右写到17点10分，手都给我敲麻了。然而实际我还没写完我想说的，也罢，等什么时候有功夫了我们再开一篇继续聊。
+这文章一写就是一下午啊，手都给我敲麻了。然而实际我还没写完我想说的，也罢，等什么时候有功夫了我们再开一篇继续聊。

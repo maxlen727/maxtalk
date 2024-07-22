@@ -6,7 +6,7 @@ author: ["MaxLen"] #作者
 tags: 
 - 卡巴斯基
 - 美化
-description: "嘿嘿嘿，自己动手，丰衣足食！" #描述
+description: "自己动手，丰衣足食！" #描述
 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 slug: "kes-skin"
 draft: false # 是否为草稿

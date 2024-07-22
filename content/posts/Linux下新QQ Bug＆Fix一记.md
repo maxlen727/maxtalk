@@ -44,7 +44,7 @@ cover:
 
 [linuxqq 闪退，求解决办法](https://forum.suse.org.cn/t/topic/15820/5)
 
-这里两篇讨论大概提到了无法启动的问题，是libvips-cpp.so.42这个库的问题。所以准备对libvips进行编译，但是我不会在openSUSE下配置编译环境，后来发现我大SUSE的Software里面直接就有这个软件包。
+这里两篇讨论大概提到了无法启动的问题，是libvips-cpp.so.42这个库的问题。所以准备对libvips进行编译，后来发现我大SUSE的Software里面直接就有这个软件包。
 
 [openSUSE Software](https://software.opensuse.org/package/libvips42)
 

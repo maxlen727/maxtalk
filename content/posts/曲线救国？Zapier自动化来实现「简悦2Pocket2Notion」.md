@@ -34,7 +34,7 @@ cover:
 
 ![image](https://github.com/maxlen727/picx-images-hosting/raw/master/20240212/image.65p457xxt3g0.webp)
 
-事件选择「新物品」（谷歌翻译后）
+事件选择「新物品」（谷歌生草翻译）
 
 ![image](https://github.com/maxlen727/picx-images-hosting/raw/master/20240212/image.4ak0qwrzl9q0.png)
 
@@ -76,7 +76,7 @@ Okay!
 
 # 🎵插曲：我想用Instapaper充当中间者
 
-稍微有点抱歉啊！
+然而并不可以。
 
 ![image](https://github.com/maxlen727/picx-images-hosting/raw/master/20240212/image.43ih4u30xt40.png)
 
