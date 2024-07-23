@@ -1,7 +1,7 @@
 ---
 title: Hugo建站的注意事项和PaperMod的配置
 date: 2024-02-18T07:51:50+08:00
-lastmod: 2024-02-18T07:51:50+08:00
+lastmod: 2024-07-23T08:43:50+08:00
 author:
   - MaxLen
 tags:
@@ -469,6 +469,84 @@ body {
       </div>
     </details>
   </div>
+```
+
+## Fancybox 灯箱
+
+`config.yaml`文件中
+
+```yaml
+params:
+    fancybox: true
+```
+
+定位到`/layouts/_default/_markup/render-image.html`
+
+```html
+{{if .Page.Site.Params.fancybox }}
+<div class="post-img-view">
+<a data-fancybox="gallery" href="{{ .Destination | safeURL }}">
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+</a>
+</div>
+{{ end }}
+```
+
+定位到`/themes/PaperMod/layouts/partials/head.html`
+
+```html
+{{if .Page.Site.Params.fancybox }}
+<script src="https://gcore.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://gcore.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://gcore.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+{{ end }}
+```
+
+## busuanzi 统计
+
+定位到`layouts/partials/extend_head.html`
+
+```html
+{{- /* Head custom content area start */ -}}
+{{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
+{{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
+<!-- busuanzi -->
+{{- if site.Params.busuanzi.enable -}}
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+{{- end -}}
+```
+
+定位到`themes/PaperMod/layouts/partials/footer.html`，在被`<footer>`包裹的块中加入
+
+```html
+    <!-- busuanzi -->
+    {{ if site.Params.busuanzi.enable -}}
+    <div class="busuanzi-footer">
+    <span id="busuanzi_container_site_pv">
+        本站总访问量<span id="busuanzi_value_site_pv"></span>次
+    </span>
+    <span id="busuanzi_container_site_uv">
+        本站访客数<span id="busuanzi_value_site_uv"></span>人次
+    </span>
+    </div>
+    {{- end -}}
+```
+
+定位到`themes/PaperMod/layouts/_default/single.html`，在`<div class="post-meta">`中加入
+
+```html
+<!-- busuanzi -->
+{{ if site.Params.busuanzi.enable -}}
+  &nbsp·&nbsp<span id="busuanzi_container_page_pv">本文阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+{{- end }}
+```
+
+然后`hugo.yaml`中修改
+
+```yaml
+params:  
+    busuanzi:
+        enable: true
 ```
 
 ---

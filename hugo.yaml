@@ -35,6 +35,9 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowFullTextinRSS: true
+  fancybox: true
+  busuanzi:
+    enable: true
 
   twikoo:
     version: 1.6.31
@@ -100,6 +103,8 @@ params:
       url: "https://t.me/no1oneknows"
     - name: Github
       url: "https://github.com/maxlen727"
+    - name: RSS
+      url: "index.xml"
 
 
   analytics:
@@ -157,10 +162,10 @@ menu:
       name: 友链
       url: links
       weight: 4
-    - indetifier: rss
-      name: RSS
-      url: index.xml
-      weight: 6
+#    - indetifier: rss
+#      name: RSS
+#      url: index.xml
+#      weight: 6
 
 outputs:
     home:
