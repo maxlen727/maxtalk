@@ -34,6 +34,7 @@ params:
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  ShowFullTextinRSS: true
 
   twikoo:
     version: 1.6.31
