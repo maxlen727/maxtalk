@@ -532,7 +532,7 @@ params:
     {{- end -}}
 ```
 
-定位到`themes/PaperMod/layouts/_default/single.html`，在`<div class="post-meta">`中加入
+定位到`layouts/_default/single.html`，在`<div class="post-meta">`中加入
 
 ```html
 <!-- busuanzi -->
